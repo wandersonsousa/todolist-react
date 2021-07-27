@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "task": "botar cachorro pra fora",
+    "done": false
+  },
+  {
+    "id": 2,
+    "task": "fazer atividades",
+    "done": false
+  },
+  {
+    "id": 3,
+    "task": "comprar arroz",
+    "done": false
+  },
+  {
+    "id": 4,
+    "task": "comprar tênis sexta",
+    "done": true
+  },
+  {
+    "id": 5,
+    "task": "comprar hotdog",
+    "done": false
+  },
+  {
+    "id": 6,
+    "task": "levar dog pra passear",
+    "done": false
+  }
+]
