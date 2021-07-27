@@ -1,32 +1,17 @@
 [
   {
     "id": 1,
-    "task": "botar cachorro pra fora",
+    "task": "Terminar atividade geografia",
     "done": false
   },
   {
     "id": 2,
-    "task": "fazer atividades",
+    "task": "Fazer compras",
     "done": false
   },
   {
     "id": 3,
-    "task": "comprar arroz",
-    "done": false
-  },
-  {
-    "id": 4,
-    "task": "comprar tênis sexta",
-    "done": true
-  },
-  {
-    "id": 5,
-    "task": "comprar hotdog",
-    "done": false
-  },
-  {
-    "id": 6,
-    "task": "levar dog pra passear",
+    "task": "Terminar projeto B",
     "done": false
   }
 ]
